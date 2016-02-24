@@ -1,6 +1,6 @@
 name: 'Tester #17'
 favicon: null
-layout_spectrum: 0.47371756029315293
+layout_spectrum: 0.08406
 typography_spectrum: 0.09248425927944481
 title: 'Tester #17'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#5eaeb9'
+    - '#ffffff'
+    - '#3a777e'
+    - '#0f3b40'
+    - '#98d0d6'
   brandStrength: 1
-  lightness: 0.9134427022654563
-  saturation: 0.2555531079415232
-  rhythmicContrast: 0.7177470091264695
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
